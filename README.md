@@ -4,3 +4,6 @@
 
 
 Added gitflow.
+
+For Backend, Strapi can be used.
+http://strapi.io/documentation
